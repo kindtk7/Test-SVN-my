@@ -1,0 +1,9 @@
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\bin\Debug\VirtualCallCenter.exe.config
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\bin\Debug\VirtualCallCenter.exe
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\bin\Debug\VirtualCallCenter.pdb
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\obj\Debug\VirtualCallCenter.csprojResolveAssemblyReference.cache
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\obj\Debug\VirtualCallCenter.Form1.resources
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\obj\Debug\VirtualCallCenter.Properties.Resources.resources
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\obj\Debug\VirtualCallCenter.csproj.GenerateResource.Cache
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\obj\Debug\VirtualCallCenter.exe
+C:\Users\toanthien\Desktop\VirtualCallCenter\VirtualCallCenter\obj\Debug\VirtualCallCenter.pdb

@@ -1,0 +1,10 @@
+C:\Users\toanthien\Desktop\AppService\AppService\AppService\bin\Debug\AppService.exe.config
+C:\Users\toanthien\Desktop\AppService\AppService\bin\Debug\AppService.exe.config
+C:\Users\toanthien\Desktop\AppService\AppService\bin\Debug\AppService.exe
+C:\Users\toanthien\Desktop\AppService\AppService\bin\Debug\AppService.pdb
+C:\Users\toanthien\Desktop\AppService\AppService\obj\Debug\AppService.csprojResolveAssemblyReference.cache
+C:\Users\toanthien\Desktop\AppService\AppService\obj\Debug\AppService.Form1.resources
+C:\Users\toanthien\Desktop\AppService\AppService\obj\Debug\AppService.Properties.Resources.resources
+C:\Users\toanthien\Desktop\AppService\AppService\obj\Debug\AppService.csproj.GenerateResource.Cache
+C:\Users\toanthien\Desktop\AppService\AppService\obj\Debug\AppService.exe
+C:\Users\toanthien\Desktop\AppService\AppService\obj\Debug\AppService.pdb

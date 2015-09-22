@@ -1,0 +1,8 @@
+C:\Users\toanthien\Desktop\AppListen\AppListen\bin\Debug\AppListen.exe.config
+C:\Users\toanthien\Desktop\AppListen\AppListen\bin\Debug\AppListen.exe
+C:\Users\toanthien\Desktop\AppListen\AppListen\bin\Debug\AppListen.pdb
+C:\Users\toanthien\Desktop\AppListen\AppListen\obj\Debug\AppListen.csprojResolveAssemblyReference.cache
+C:\Users\toanthien\Desktop\AppListen\AppListen\obj\Debug\AppListen.csproj.GenerateResource.Cache
+C:\Users\toanthien\Desktop\AppListen\AppListen\obj\Debug\AppListen.exe
+C:\Users\toanthien\Desktop\AppListen\AppListen\obj\Debug\AppListen.pdb
+C:\Users\toanthien\Desktop\AppListen\AppListen\obj\Debug\AppListen.AppListen.resources
